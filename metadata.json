@@ -1,0 +1,5 @@
+{
+  "name": "SENTRY.SOC by Nagesh Jumanal",
+  "description": "This is an AI-powered web application built and deployed by Nagesh jumanal. It leverages the Gemini API to provide intelligent, real-time AI capabilities directly in the browser. Designed to be fast, lightweight, and easy to run both locally and in production.",
+  "requestFramePermissions": []
+}
